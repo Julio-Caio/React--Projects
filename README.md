@@ -15,9 +15,6 @@ Este repositório tem a proposta de reunir meus primeiros projetos utilizando o 
 
 ## Tecnologias Utilizadas:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julio-Caio&theme=panda)](https://github.com/Julio-Caio/React-Project-Beginner-Level-"//github-readme-stats)
-
-
 <div style= "display: inline-block">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width= "44" height="44" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="44" height="44"/>
